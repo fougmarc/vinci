@@ -2,7 +2,7 @@
   .root
     transition(appear @enter='enter')
       .inner
-        p.title.description-fade-in
+        p.subtitle.description-fade-in
           | Le dialogue, le leadership , la solidarité, la cohesion sociale,la paix 
         p.subtitle.description-fade-in
           | la democraticie, la liberté d'expression, la discipline, la loyauté, l'unicité
