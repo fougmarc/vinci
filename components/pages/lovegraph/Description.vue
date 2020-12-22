@@ -3,8 +3,7 @@
     transition(appear @enter='enter')
       .inner
         p.title.description-fade-in
-          span.underline
-            | Le dialogue, le leadership , la solidarité, la cohesion sociale,la paix 
+          | Le dialogue, le leadership , la solidarité, la cohesion sociale,la paix 
         p.subtitle.description-fade-in
           | la democraticie, la liberté d'expression, la discipline, la loyauté, l'unicité
         p.item.description-fade-in
